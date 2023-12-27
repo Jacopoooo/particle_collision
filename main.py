@@ -1,7 +1,7 @@
 import pygame
 from particle import Particle
 pygame.init()
-
+#ciao sono cicciogamer
 
 WIDTH, HEIGHT = 1500, 900
 WIN = pygame.display.set_mode((WIDTH, HEIGHT))
